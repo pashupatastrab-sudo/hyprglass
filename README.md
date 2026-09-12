@@ -16,6 +16,20 @@ It is a heavily extended fork of the original [hyprglass](https://github.com/hyp
 
 ---
 
+## Screenshots
+
+![Month View](assets/screenshots/month-view.png)
+
+![Week View](assets/screenshots/week-view.png)
+
+![App Launcher](assets/screenshots/app-launcher.png)
+
+## Demo
+
+<video src="https://github.com/pashupatastrab-sudo/hyprglass/raw/main/assets/demo/demo.mp4" controls width="100%"></video>
+
+---
+
 ## What's New vs. Upstream
 
 The upstream plugin applies a single glass effect to an entire window. LinuxGlass goes far beyond that:
