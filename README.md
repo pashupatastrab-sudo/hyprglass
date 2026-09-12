@@ -10,16 +10,6 @@
 
 LinuxGlass is a Hyprland compositor plugin that brings true Liquid Glass rendering to your Linux desktop. Frosted blur, Snell's-law edge refraction, chromatic aberration, specular highlights, CSS-style inner and outer shadows — all rendered in real time inside the compositor itself, on every window and layer surface.
 
-## Screenshots
-
-![Month View](assets/screenshots/month-view.png)
-
-![Week View](assets/screenshots/week-view.png)
-
-![App Launcher](assets/screenshots/app-launcher.png)
-
----
-
 It is a heavily extended fork of the original [hyprglass](https://github.com/hyprnux/hyprglass) by Hyprnux. The original plugin provided the foundational architecture for capturing the background framebuffer — that backdrop sampling approach is the only thing carried forward from the upstream. Everything else — the per-region API, the native QML plugin, the socket protocol, the shadow system, the animation engine — was designed and built from scratch.
 
 **Target:** Hyprland 0.55.3 · Fedora Linux · Wayland
